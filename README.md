@@ -24,7 +24,7 @@
     <p dir="auto">
         <g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">
         🎓
-        </g-emoji> I am Makoto Fuji, a <strong>Blockchain / Web / Mobile Developer</strong> (specializing in <strong>React Applications</strong>). I graduated my Master in <strong>Computer Science &amp; Engineering</strong> in 2014.
+        </g-emoji> I am a well-experienced <strong>Blockchain / Web / Mobile Developer</strong> (specializing in <strong>React Applications</strong>). I graduated my Master in <strong>Computer Science &amp; Engineering</strong> in 2014.
     </p>
     <p dir="auto">
         <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> I enjoy contributing to <strong>Open Source Projects</strong> and have contributed to several Gigantic Organizations including, <strong>Material UI</strong>, <strong>Microsoft</strong>, <strong>Amazon</strong>, <strong>Webhint</strong>, and countless others. I am really enthusiastic about learning new technology. In 2016, I learned <strong>Blockchain development &amp; DApps</strong>, and in 2020, learned <strong>Next.js</strong>, <strong>Progressive Web App (PWA)</strong>, <strong>GraphQL</strong>, <strong>Micro-Frontend Architecture</strong>.
